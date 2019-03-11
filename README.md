@@ -1,0 +1,1 @@
+# sonarqubecustomrules
